@@ -1,4 +1,4 @@
-<?php echo $this->load->view('template/atas'); ?>
+<?php $this->load->view('template/atas'); ?>
 <header class="header">
 	<div class="header__content header__content--fluid-width">
 		<div class="header__logo-title">LATERAL</div>
@@ -568,4 +568,4 @@
 	</div>
 </section>
 <!-- Modal for animation -->
-<?php echo $this->load->view('template/bawah'); ?>
+<?php $this->load->view('template/bawah'); ?>
